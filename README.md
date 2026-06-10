@@ -94,13 +94,7 @@ Data Analyst with a Master's in Data Science and hands-on experience building en
 | **Master's** | Data Science | University of Algiers 1 | 2025 |
 | **Bachelor's** | Applied Mathematics | University of Algiers 1 | 2023 |
 
----
 
-## 📊 GitHub Stats
-
-![Hamza's GitHub stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=hamza-bou21&show_icons=true&theme=radical&bg_color=0D1117&border_color=30363D)
-
-![Top Langs](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=hamza-bou21&layout=compact&theme=radical&bg_color=0D1117&border_color=30363D)
 
 ---
 
