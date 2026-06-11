@@ -19,6 +19,16 @@ Data Analyst with a Master's in Data Science and hands-on experience building en
 - 🌍 Fluent in Arabic, French, and English (C1)
 
 ---
+## 📄 Resume
+
+[![Download CV](https://img.shields.io/badge/Download_CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/hamza-bou21/hamza-bou21/raw/main/Hamza_Bouhouita_CV.pdf)
+
+**Quick Highlights:**
+- 🎓 Master's in Data Science
+- 💼 3+ years analytics experience
+- 📊 91M+ rows processed | 99.8% data reduction
+
+---
 
 ## 🛠️ Tech Stack
 
