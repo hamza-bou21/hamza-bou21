@@ -2,7 +2,7 @@
 
 **Data Analyst | Analytics Engineer | Data Scientist**
 
-✉️ [hamza.bou2021@gmail.com](mailto:hamza.bou2021@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/hamza-bouhouita)
+🔗 [LinkedIn](https://linkedin.com/in/hamza-bouhouita)
 
 [![GitHub followers](https://img.shields.io/github/followers/hamza-bou21?label=Follow&style=social)](https://github.com/hamza-bou21)
 
@@ -25,7 +25,7 @@ Data Analyst with a Master's in Data Science and hands-on experience building en
 
 **Quick Highlights:**
 - 🎓 Master's in Data Science
-- 💼 3+ years analytics experience
+- 💼 Hands-on analytics experience across research, retail, and startup environments
 - 📊 91M+ rows processed | 99.8% data reduction
 
 ---
@@ -46,7 +46,7 @@ Data Analyst with a Master's in Data Science and hands-on experience building en
 ## 📌 Featured Projects
 
 ### 🚕 NYC Taxi Analytics Pipeline
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=hamza-bou21&repo=nyc-taxi-analytics-project&theme=dark&bg_color=0D1117&border_color=30363D)](https://github.com/hamza-bou21/nyc-taxi-analytics-project)
+**[View Repository →](https://github.com/hamza-bou21/nyc-taxi-analytics-project)**
 
 **91M rows → BigQuery → Looker Studio | 99.8% data reduction | $0 query costs**
 
@@ -59,18 +59,19 @@ Data Analyst with a Master's in Data Science and hands-on experience building en
 ---
 
 ### 🛍️ E-Commerce Analytics (Olist)
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=hamza-bou21&repo=olist-ecommerce-analysis&theme=dark&bg_color=0D1117&border_color=30363D)](https://github.com/hamza-bou21/olist-ecommerce-analysis)
+**[View Repository →](https://github.com/hamza-bou21/olist-ecommerce-analysis)**
 
 **Python | Power BI | Scikit-learn | XGBoost**
 
 - Analyzed 100K+ Brazilian orders with interactive Power BI dashboard
-- Built delivery delay prediction model using Random Forest + XGBoost
-- Handled class imbalance with stratified splits and balanced weights
+- Built a predictive pipeline to forecast order delays before shipment, handling severe class imbalance (only 6.4% of orders were delayed)
+- Compared Random Forest (17% precision, minimizing false alarms) vs. XGBoost (54% recall via `scale_pos_weight`, catching over half of all actual delays) to evaluate the precision-recall trade-off
+- Identified `freight_value`, `product_weight_g`, and `price` as the strongest predictors of delivery disruption
 
 ---
 
 ### 💬 Text-to-SQL RAG Application
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=hamza-bou21&repo=olist-text-to-sql-ai&theme=dark&bg_color=0D1117&border_color=30363D)](https://github.com/hamza-bou21/olist-text-to-sql-ai)
+**[View Repository →](https://github.com/hamza-bou21/olist-text-to-sql-ai)**
 
 **BigQuery | ChromaDB | Gemini | Groq | Streamlit**
 
@@ -87,13 +88,13 @@ Data Analyst with a Master's in Data Science and hands-on experience building en
 
 | Role | Company | Period | Type |
 |------|---------|--------|------|
-| **Business Data Analyst** | byFood.com (Tablecross Inc.) | Nov 2025 - Present | Permanent |
+| **Business Data Analyst** | byFood.com (Tablecross Inc.) | Nov 2025 - Present | Remote Contractor |
 | **Analytics Operations Assistant** | Smollan North Africa | Sep 2025 - Nov 2025 | Contract |
 | **Data Scientist Intern** | CERIST Research Center | Dec 2024 - Jun 2025 | Internship |
 
 **Key achievements:**
-- Automated reports with Python → 70% reduction in manual reporting time
-- Built 3D lung model → 20% faster segmentation, 12% better accuracy
+- Automated reports with Python at byFood → 70% reduction in manual reporting time
+- Built 3D lung model at CERIST → 20% faster segmentation, 12% better accuracy
 
 ---
 
